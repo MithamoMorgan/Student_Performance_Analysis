@@ -10,13 +10,13 @@ I downloaded the data from [kaggle](https://www.kaggle.com/datasets/rabieelkharo
 4.Format the cells.
 
 ### QUESTIONS TO ANSWER
-1.Does parental support have an influence on student performance?
-2.Do the students studying for more hours perform better?
-3.How does the parental education affect performance of the student?
-4.Is there a significant difference between tutored and non tutored students?
-5.Does the absence of student affect performance?
-6.What is the influence of extracurricular activities on student performance?
-7.Is there a significant difference in gpa between ethnic groups?
+1.Does parental support have an influence on student performance?</br>
+2.Do the students studying for more hours perform better?</br>
+3.How does the parental education affect performance of the student?</br>
+4.Is there a significant difference between tutored and non tutored students?</br>
+5.Does the absence of student affect performance?</br>
+6.What is the influence of extracurricular activities on student performance?</br>
+7.Is there a significant difference in gpa between ethnic groups?</br>
 8.What is the number of students in each age category?
 
 
