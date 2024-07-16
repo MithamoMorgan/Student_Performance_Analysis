@@ -4,10 +4,10 @@ The analysis is aimed to look at the various factors that influence performance 
 I downloaded the data from [kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset).The data contains comprehensive info on 2,391 highschool students,detailing their demographics,studyhabits,parentalinvolvement,extracurricular activities and academic performance.
 
 ### DATA QUALITY CHECK
-1.Check for missing values.
-2.Check for duplicates.
-3.Validate data types.
-4.Format the cells.
+1.Check for missing values.</br>
+2.Check for duplicates.</br>
+3.Validate data types.</br>
+4.Format the cells.</br>
 
 ### QUESTIONS TO ANSWER
 1.Does parental support have an influence on student performance?</br>
