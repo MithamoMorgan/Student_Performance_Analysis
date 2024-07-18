@@ -19,4 +19,6 @@ I downloaded the data from [kaggle](https://www.kaggle.com/datasets/rabieelkharo
 7.Is there a significant difference in gpa between ethnic groups?</br>
 8.What is the number of students in each age category?
 
+### MORE
+Dashboard in [tableau public]() comming soon.
 
